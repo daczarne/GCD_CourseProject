@@ -2,6 +2,12 @@
 
 ![retired](https://img.shields.io/badge/lifecycle-retired-orange.svg)
 
+![github repo size](https://img.shields.io/github/repo-size/daczarne/GCD_CourseProject)
+![github code size](https://img.shields.io/github/languages/code-size/daczarne/GCD_CourseProject)
+
+![github languages](https://img.shields.io/github/languages/count/daczarne/GCD_CourseProject)
+![top language](https://img.shields.io/github/languages/top/daczarne/GCD_CourseProject)
+
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 * Downloads the dataset if it does not already exist in the working directory
