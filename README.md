@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data - Course Project
 
-![retired](https://img.shields.io/badge/lifecycle-retired-orange.svg)
+![archived](https://img.shields.io/badge/lifecycle-archived-red.svg)
 
 ![github repo size](https://img.shields.io/github/repo-size/daczarne/GCD_CourseProject)
 ![github code size](https://img.shields.io/github/languages/code-size/daczarne/GCD_CourseProject)
